@@ -67,12 +67,12 @@ void display() {      // Procedure Display|
     cout << endl;
 }
 
-int main()
+int main() 
 {
-    input();
+
+    input(); 
     insertionsort();
-    display();
-} 
+    display(); 
 
          }
     }
